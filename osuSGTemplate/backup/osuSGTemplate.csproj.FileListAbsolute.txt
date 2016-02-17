@@ -1,0 +1,5 @@
+S:\Libraries\Documents\C# Project\osuSGTemplate\osuSGTemplate\bin\Release\osuSGTemplate.exe.config
+S:\Libraries\Documents\C# Project\osuSGTemplate\osuSGTemplate\bin\Release\osuSGTemplate.exe
+S:\Libraries\Documents\C# Project\osuSGTemplate\osuSGTemplate\bin\Release\osuSGTemplate.pdb
+S:\Libraries\Documents\C# Project\osuSGTemplate\osuSGTemplate\obj\Release\osuSGTemplate.exe
+S:\Libraries\Documents\C# Project\osuSGTemplate\osuSGTemplate\obj\Release\osuSGTemplate.pdb

@@ -1,0 +1,10 @@
+[Events]
+//Background and Video Events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"sb\bg\girl.png",320,240
+ S,0,0,,0.625
+ F,0,0,100000,1
+//Storyboard Sound Samples

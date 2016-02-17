@@ -1,0 +1,13 @@
+S:\Libraries\Documents\C# Project\osuSGTemplate\osuSGTemplate\bin\Debug\osuSGTemplate.exe.config
+S:\Libraries\Documents\C# Project\osuSGTemplate\osuSGTemplate\bin\Debug\osuSGTemplate.exe
+S:\Libraries\Documents\C# Project\osuSGTemplate\osuSGTemplate\bin\Debug\osuSGTemplate.pdb
+S:\Libraries\Documents\C# Project\osuSGTemplate\osuSGTemplate\obj\Debug\osuSGTemplate.csprojResolveAssemblyReference.cache
+S:\Libraries\Documents\C# Project\osuSGTemplate\osuSGTemplate\obj\Debug\osuSGTemplate.exe
+S:\Libraries\Documents\C# Project\osuSGTemplate\osuSGTemplate\obj\Debug\osuSGTemplate.pdb
+D:\Library\Document\C# Project\osuSGTemplate\osuSGTemplate\bin\Debug\osuSGTemplate.exe.config
+D:\Library\Document\C# Project\osuSGTemplate\osuSGTemplate\obj\Debug\osuSGTemplate.exe
+D:\Library\Document\C# Project\osuSGTemplate\osuSGTemplate\obj\Debug\osuSGTemplate.pdb
+D:\Library\Document\C# Project\osuSGTemplate\osuSGTemplate\obj\Debug\osuSGTemplate.csprojResolveAssemblyReference.cache
+D:\Library\Document\C# Project\osuSGTemplate\osuSGTemplate\bin\Debug\osuSGTemplate.exe
+D:\Library\Document\C# Project\osuSGTemplate\osuSGTemplate\bin\Debug\osuSGTemplate.pdb
+D:\Library\Document\C# Project\osuSGTemplate\osuSGTemplate\bin\Debug\Bass.Net.xml
